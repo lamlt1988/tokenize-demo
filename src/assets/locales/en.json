@@ -1,0 +1,21 @@
+{
+  "sign-in": "Sign in",
+  "please-sign-in-to-continue": "Please sign in to continue",
+  "email": "Email",
+  "password": "Password",
+  "remember-me": "Remember me",
+  "forgot-password": "Forgot your password?",
+  "dont-have-account": "Don't have an account yet? ",
+  "sign-up": "SIGN UP",
+  "markets": "Markets",
+  "home": "Home",
+  "wallets": "Wallets",
+  "portfolio": "Portfolio",
+  "more": "More",
+  "error": "Error",
+  "something-wrong": "There is something wrong",
+  "enter-valid-email": "Please enter valid email",
+  "email-required": "Email Address is Required",
+  "password-at-least": "Password must be at least {{min}} characters",
+  "password-required": "Password is required"
+}
